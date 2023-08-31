@@ -1,7 +1,7 @@
 tf-nightly
 tf-models-nightly
 tensorflow-hub>=0.8.0
-numpy>=1.17.3
+numpy>=1.22.2
 pillow
 sentencepiece
 tensorflow-datasets>=2.1.0
