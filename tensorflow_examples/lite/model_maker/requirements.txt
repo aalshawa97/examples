@@ -9,3 +9,4 @@ fire
 flatbuffers==1.12
 absl-py
 tflite-support==0.1.0rc3.dev2
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
